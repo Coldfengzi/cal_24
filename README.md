@@ -1,4 +1,4 @@
-# cal_24
+# 纸牌游戏扑克牌24点游戏计算
 
 根据 https://gitee.com/Jclian91/24DianJiJiSuan 修改，修正了相关Bug：
 
